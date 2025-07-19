@@ -1,2 +1,2 @@
-# StreamDeck-C# 
-This is C# project for streamdeck app on mobile
+# StreamDeck-Python
+This is Python project for streamdeck app on mobile
